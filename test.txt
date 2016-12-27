@@ -1,3 +1,5 @@
+This is the first branch of the amster
+
 This is a test
 might not be the best
 This is the first edit
